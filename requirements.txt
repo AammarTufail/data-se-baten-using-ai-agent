@@ -1,0 +1,15 @@
+# Data Se Baten — tested with Python 3.13 (works on 3.11–3.13)
+# UI
+streamlit==1.64.0
+# LLM + agent orchestration
+openai==3.19.2
+langchain-core==1.6.5
+langchain-openai==1.6.6
+langgraph==1.2.12
+# Data profiling & analysis
+pandas==3.0.6
+numpy==2.5.3
+pyarrow==25.0.1
+plotly==7.1.0
+openpyxl==3.1.5
+tabulate==0.10.0
